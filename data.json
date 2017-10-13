@@ -1,0 +1,61 @@
+{
+
+	"msgs":[
+		{
+			"title":"匹配消息",
+			"url":"/msgMatching",
+			"msg":"您好，管理员已为您匹配一位与您期望相似的",
+			"thetime":"09:25",
+			"num":"3"	
+	    },
+	    {
+	    	"title":"提现通知",
+	    	"url":"/msgWithdrawal",
+			"msg":"余额提前发起，等待审核",
+			"thetime":"昨天",
+			"num":"1"
+	    },
+	    {
+	    	"title":"付费消息",
+	    	"url":"/msgPay",
+			"msg":"您的学生欧阳明已付费续课",
+			"thetime":"07-25",
+			"num":"1"
+	    }
+	],
+	"matching":{
+		"title":"匹配消息",
+		"img":"./src/assets/icon_matching.png",
+		"msg":"您好，管理员已为您匹配一位与您期望相似的",
+		"img":"http://upload.jianshu.io/users/upload_avatars/5856787/2769e3c9-e4a0-4185-90a2-5050531d887f",
+		"thetime":"09:25",
+		"num":"3",
+		"main":"您好，已为您匹配一位与您期望相符的学生，请尽快根据学生信息与学习目标，指导合理的教学计划。",
+		"studentname":"林思雨 ·",
+		"couresname":"教学课"
+	},
+	"msgPay":{
+		"num":"1000",
+		"student":"林思雨",
+		"coures":"数学课",
+		"time":"2017—05-25 09:00:56"
+	},
+	"msgWithdrawal":{
+		"time":"2017年5月25 09:00",
+		"num":"800",
+		"tixianTime":"2017-05-25 09:00:56",
+		"daozhangTime":"2017-05-25 10:00:56"
+	},
+	"my":{
+		"username":"李明涛",
+		"pingfen":"4.8",
+		"keshi":"18",
+		"student":"5"
+	},
+	"myscore":{
+		"pingfen":"4.8",
+		"keshi":"18",
+		"student":"4"
+	}	
+
+}
